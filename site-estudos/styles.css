@@ -1,0 +1,34 @@
+html{
+    background: rgba(207, 210, 208, 0.775);
+}
+
+header{
+    background-color: #c5d6c5;
+    height: 150px;
+    color: rgb(100, 121, 102);
+    
+}
+
+#nav1{
+    background-color: #b7c2b7f0;
+    height: 40px;
+}  
+
+#div1{
+    background-color: #b8deb8;
+    height: 400px;
+    width: 900px;
+}
+
+aside{
+    background-color: #b8deb8;
+    height: 400px;
+    width: 420px;
+    float: right;
+    margin-top: -400px;
+}
+
+footer{
+    background-color: #b7c2b7f0;
+    height: 60px;
+}
